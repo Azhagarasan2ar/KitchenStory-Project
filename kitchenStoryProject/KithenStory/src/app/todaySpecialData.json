@@ -1,0 +1,20 @@
+{
+    "today_special": [
+      {
+        "id": 1657378715333,
+        "product": "food item",
+        "category": "category",
+        "price": "10",
+        "available": "yes"
+      },
+
+      {
+        "id": 1657378715333,
+        "product": "food item",
+        "category": "category",
+        "price": "10",
+        "available": "yes"
+      }
+    ]
+  }
+ 

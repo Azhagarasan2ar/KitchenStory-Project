@@ -1,0 +1,21 @@
+@media all and (min-width:1240px)
+      {
+        .caro-height
+        {
+          height: 100vh;
+        }
+      }
+
+      .foo-col
+      {
+        background-color: black;
+      }
+
+       .btn-txt
+      {
+        color: white!important;
+      }
+      .btn-txt:hover
+      {
+        color: #000!important;
+      }
