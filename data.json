@@ -1,0 +1,75 @@
+{
+  "foodProducts": [
+    {
+      "id": 1657378715333,
+      "productName": "Pizza",
+      "imgSrc": "./assets/images/card-images/pizza.jpg",
+      "category": "BestSeller",
+      "price": 10,
+      "available": "yes"
+    },
+    {
+      "id": 1657378715334,
+      "productName": "Chicken Fingers",
+      "imgSrc": "./assets/images/card-images/chicken-fingers.jpg",
+      "category": "BestSeller",
+      "price": 10,
+      "available": "yes"
+    },
+    {
+      "id": 1657378715335,
+      "productName": "Nuggets",
+      "category": "BestSeller",
+      "imgSrc": "./assets/images/card-images/nuggets.jpg",
+      "price": 10,
+      "available": "yes"
+    },
+    {
+      "id": 1657378715336,
+      "productName": "Chiken Burger Mini",
+      "category": "TodaySpecial",
+      "imgSrc": "./assets/images/card-images/mini-chicken-burger.jpg",
+      "price": 10,
+      "available": "yes"
+    },
+    {
+      "id": 1657378715337,
+      "productName": "Chicken Lollipop",
+      "imgSrc": "./assets/images/card-images/chicken-fingers.jpg",
+      "category": "TodaySpecial",
+      "price": 10,
+      "available": "yes"
+    }
+  ],
+  "orderItems": [],
+  "orderDetails": [
+    {
+      "id": 1,
+      "userName": "azhagarasan",
+      "emailId": "azhagarasan3432@gmail.com",
+      "totalPrice": 0,
+      "orderedItems": 0,
+      "address": ""
+    }
+  ],
+  "user": [
+    {
+      "id": 2408,
+      "username": "azhagarasan",
+      "password": 123456,
+      "email": "azhaga007@gmail.com"
+    },
+    {
+      "id": 2409,
+      "username": "ganesh",
+      "password": 1234,
+      "email": "gana23@gmail.com"
+    },
+    {
+      "id": 2410,
+      "username": "santhosh",
+      "password": 1234,
+      "email": "santhosh177@gmail.com"
+    }
+  ]
+}
